@@ -16,4 +16,5 @@ do
   fi
 done
 }
-echo "guess the file in the current directory"
+echo "guess the file number in the current directory"
+guess
